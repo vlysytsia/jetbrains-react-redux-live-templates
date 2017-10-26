@@ -1,0 +1,1 @@
+# jetbrains-react-redux-live-templates
